@@ -25,14 +25,14 @@
 ---
 
 ### 📂 Featured Project
-#### 📋 [Clipboard Manager](https://github.com/VarshithaReddy0/clipboard-manager)
-> A clipboard management utility that enhances copy-paste functionality for improved productivity.  
-
+#### 📋 [NextSteps](https://github.com/VarshithaReddy0/NextSteps)
+> A job portal tailored for fresh graduates and college students, connecting young talent with entry-level opportunities in various industries. NextSteps provides a user-friendly platform to browse job listings, create personalized profiles, and apply directly to positions matching their skills and preferences.
+> Live link:
+https://nextsteps.onrender.com/
 ---
 
 ### 🏆 Achievements
 - Solved **500+ DSA problems** across LeetCode, GeeksforGeeks & Code360
-- **CodeChef Division 3 – Rank 255** among 10,000+ participants
 - Completed **EPAM certifications** in Java, Spring Boot, and AWS Serverless
 
 ---
